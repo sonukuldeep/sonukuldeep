@@ -20,7 +20,7 @@ Welcome to my github page.<br/>I'm a developer by passion who loves to scroll th
 
 <!-- ![emoji](https://i.ibb.co/JykDTBP/ernie-sesame-street.gif) -->
 <div align="center">
-<img style="border-radius:8px" src="https://github.com/sonukuldeep/sonukuldeep/assets/57728165/f93c976d-f51a-44b8-ac45-5b2a5871eba5" alt="emoji" />
+<img style="border-radius:5%" src="https://github.com/sonukuldeep/sonukuldeep/assets/57728165/f93c976d-f51a-44b8-ac45-5b2a5871eba5" alt="emoji" />
 </div> 
 
 <br/>
@@ -64,5 +64,13 @@ Welcome to my github page.<br/>I'm a developer by passion who loves to scroll th
 <br/>
 
 <div align="center"> 
+<img src="https://streak-stats.demolab.com/?user=sonukuldeep&theme=gruvbox" alt="Top-lang" />
+</div>
+
+<br/>
+
+<div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukuldeep&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&theme=gruvbox" alt="Top-lang" />
 </div>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sonukuldeep&theme=gruvbox)](https://git.io/streak-stats) -->
