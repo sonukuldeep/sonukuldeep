@@ -20,7 +20,9 @@ Welcome to my github page.<br/>I'm a developer by passion who loves to scroll th
 
 <!-- ![emoji](https://i.ibb.co/JykDTBP/ernie-sesame-street.gif) -->
 <div align="center">
-<img style="border-radius:8px" src="https://github.com/sonukuldeep/sonukuldeep/assets/57728165/f93c976d-f51a-44b8-ac45-5b2a5871eba5" alt="emoji" >
+<kbd>
+<img src="https://github.com/sonukuldeep/sonukuldeep/assets/57728165/f93c976d-f51a-44b8-ac45-5b2a5871eba5" alt="emoji" >
+</kbd>
 </div> 
 
 <br/>
