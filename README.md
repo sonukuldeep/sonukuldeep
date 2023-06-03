@@ -1,9 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<div align="center">
-<img style="border-radius: 50%; width: 100px" src="https://github.com/sonukuldeep.png" alt="known-language"/>
-</div> 
-
 <h2 align="center">
 Welcome to my github page.<br/>I'm a developer by passion who loves to scroll through 🐶 & &#128573; videos when bored
 </h2>
@@ -18,9 +14,10 @@ Welcome to my github page.<br/>I'm a developer by passion who loves to scroll th
 
 <br/>
 
-<div align="center">
-<img style="border-radius: 8px" src="https://i.ibb.co/JykDTBP/ernie-sesame-street.gif" alt="emoji" />
-</div> 
+![emoji](https://i.ibb.co/JykDTBP/ernie-sesame-street.gif)
+<!-- <div align="center"> -->
+<!-- <img style="border-radius: 8px" src="https://i.ibb.co/JykDTBP/ernie-sesame-street.gif" alt="emoji" /> -->
+<!-- </div>  -->
 
 
 <br/>
