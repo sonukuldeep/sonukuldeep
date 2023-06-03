@@ -15,11 +15,12 @@ Welcome to my github page.<br/>I'm a developer by passion who loves to scroll th
 <br/>
 
 <!-- ![ernie-sesame-street](https://github.com/sonukuldeep/sonukuldeep/assets/57728165/09fd47a3-cc6d-4a8e-9b75-07dba9f39c31) -->
+<!-- ![ezgif com-optimize](https://github.com/sonukuldeep/sonukuldeep/assets/57728165/f93c976d-f51a-44b8-ac45-5b2a5871eba5) -->
 
 
 <!-- ![emoji](https://i.ibb.co/JykDTBP/ernie-sesame-street.gif) -->
 <div align="center">
-<img style="border-radius: 8px" src="https://github.com/sonukuldeep/sonukuldeep/assets/57728165/09fd47a3-cc6d-4a8e-9b75-07dba9f39c31" alt="emoji" />
+<img style="border-radius:8px src="https://github.com/sonukuldeep/sonukuldeep/assets/57728165/f93c976d-f51a-44b8-ac45-5b2a5871eba5" alt="emoji" />
 </div> 
 
 <br/>
