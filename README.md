@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 <h2 align="center">
-Welcome to my github page.<br/>I'm a developer by passion who loves to scroll through 🐶 & &#128573; videos when bored
+Welcome to my github page.<br/>I'm a developer by passion who loves to scroll through &#128573; & 🐶 videos when bored
 </h2>
 
 <br/>
 
-<h2 align="center">In this development journey I have manages to learn few things worth mentioning</h2>
+<h2 align="center">In this development journey I have managed to learn few things worth mentioning</h2>
 
 <br/>
 
@@ -29,7 +29,7 @@ Welcome to my github page.<br/>I'm a developer by passion who loves to scroll th
 <!-- skills -->
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,nodejs,react,vue,flask,rust,python,php,solidity,mongodb,mysql,prisma,figma" alt="known-language"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,nodejs,react,vue,flask,rust,python,php,solidity,mongodb,mysql,prisma,threejs,figma" alt="known-language"/>
 </div> 
 
 <br/>
