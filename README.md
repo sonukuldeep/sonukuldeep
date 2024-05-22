@@ -29,7 +29,7 @@ Welcome to my github page.<br/>I'm a developer by passion who loves to scroll th
 <!-- skills -->
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,nodejs,react,nextjs,svelte,vue,flask,ts,js,csharp,rust,python,php,solidity,mongodb,mysql,prisma,threejs,figma,unity,godot,flutter,dart,docker,kubernetes,jenkins" alt="known-language"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,nodejs,react,nextjs,svelte,vue,flutter,flask,ts,js,cs,rust,python,dart,php,solidity,mongodb,mysql,threejs,figma,unity,godot,linux,git,aws,nginx,docker,kubernetes,jenkins" alt="known-language"/>
 </div> 
 
 <br/>
